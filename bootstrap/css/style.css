@@ -1,0 +1,46 @@
+
+/* Navbar
+==========================*/
+a:hover {
+  color: black;
+}
+
+span.icon-bar {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+
+}
+
+/* Jumbotron
+==========================*/
+.jumbotron {
+  text-align: center;
+  min-height: 400px;
+  background-image: url(img/android.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  color: white;
+
+}
+
+.heading {
+  text-align: center;
+  padding-top: 7%;
+
+}
+
+.lead {
+  text-align: center;
+  font-style: italic;
+}
+
+.miles {
+  max-width: 25%;
+  max-height: 25%;
+  transform: rotate(180deg);
+  border-radius: 25px;
+}

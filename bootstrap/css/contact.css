@@ -1,0 +1,57 @@
+
+/* Navbar
+==========================*/
+a:hover {
+  color: black;
+}
+
+span.icon-bar {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+
+}
+
+/* Jumbotron
+==========================*/
+.jumbotron {
+  text-align: center;
+  min-height: 400px;
+  background-image: url(img/android.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  color: white;
+
+}
+
+.heading {
+  text-align: center;
+  padding-top: 7%;
+
+}
+
+.lead {
+  text-align: center;
+  font-style: italic;
+}
+
+/* bodycontainer
+==========================*/
+.bodycontainer {
+  font-family: "helvetica", sans-serif;
+  color: black;
+  font-weight: lighter;
+}
+
+.glyphicon {
+  font-size: 2em;
+
+}
+
+
+.col-sm-3 {
+  text-align: center;
+}
