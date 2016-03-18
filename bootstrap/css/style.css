@@ -5,7 +5,6 @@
   color: black;
   font-weight: lighter;
   max-width: 1000px;
-  min-width: 1000px;
   margin: 0 auto;
 }
 
@@ -48,12 +47,11 @@ span.icon-bar {
   font-style: italic;
 }
 
-.miles {
+.miles2 {
   max-width: 20%;
   max-height: 20%;
   border-radius: 40px;
-  transform: rotate(90deg);
-  margin: auto;
+
 }
 
 /* About
