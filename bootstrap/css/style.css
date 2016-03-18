@@ -1,0 +1,70 @@
+/* BODY
+==========================*/
+.bodycontainer {
+  font-family: "helvetica", sans-serif;
+  color: black;
+  font-weight: lighter;
+  max-width: 1000px;
+  min-width: 1000px;
+  margin: 0 auto;
+}
+
+/* Navbar
+==========================*/
+a:hover {
+  color: black;
+}
+
+span.icon-bar {
+  color: white;
+}
+
+.navbar-brand {
+  color: white;
+
+}
+
+/* Jumbotron
+==========================*/
+.jumbotron {
+  text-align: center;
+  min-height: 400px;
+  background-image: url(img/android.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  color: white;
+
+}
+
+.heading {
+  text-align: center;
+  padding-top: 7%;
+
+}
+
+.lead {
+  text-align: center;
+  font-style: italic;
+}
+
+.miles {
+  max-width: 25%;
+  max-height: 25%;
+  transform: rotate(180deg);
+  border-radius: 25px;
+}
+
+/* About
+==========================*/
+.about {
+  text-align: justify;
+}
+
+a#bki {
+  color: #ff3399;
+}
+
+a#bki:hover{
+  color: black;
+}
