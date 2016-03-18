@@ -49,10 +49,11 @@ span.icon-bar {
 }
 
 .miles {
-  max-width: 25%;
-  max-height: 25%;
-  transform: rotate(180deg);
-  border-radius: 25px;
+  max-width: 20%;
+  max-height: 20%;
+  border-radius: 40px;
+  transform: rotate(90deg);
+  margin: auto;
 }
 
 /* About
